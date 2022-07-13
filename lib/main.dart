@@ -24,14 +24,14 @@ class _MyAppState extends State<MyApp> {
         {'text': 'Red', 'score': 1},
         {'text': 'Orange', 'score': 2},
         {'text': 'Yellow', 'score': 3},
-        {'text': 'Green', 'score': 4},
+        {'text': 'Blue', 'score': 4},
       ],
     },
     {
       'qutestionText': 'What\'s your favorite sport?',
       'answers': [
-        {'text': 'Running', 'score': 4},
-        {'text': 'Swimming', 'score': 3},
+        {'text': 'Swimming', 'score': 4},
+        {'text': 'Running', 'score': 3},
         {'text': 'Badminton', 'score': 2},
         {'text': 'football', 'score': 1},
       ],
@@ -39,10 +39,10 @@ class _MyAppState extends State<MyApp> {
     {
       'qutestionText': 'Who\'s your favorite friend?',
       'answers': [
-        {'text': 'Tom', 'score': 1},
-        {'text': 'Oscar', 'score': 1},
-        {'text': 'Alex', 'score': 1},
-        {'text': 'Will', 'score': 1},
+        {'text': 'Shing', 'score': 1},
+        {'text': 'Shing', 'score': 1},
+        {'text': 'Shing', 'score': 1},
+        {'text': 'Shing', 'score': 1},
       ],
     },
   ];
